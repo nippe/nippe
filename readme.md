@@ -4,6 +4,14 @@ My name is Niklas Nihlén (nippe here on github). I'm a freelance/contractor/con
 
 Sadly most of my work is owned by my clients, so not much open source.
 
+The last few years I've been all in on JavaScript and node.js. Currently learning TypeScript and Go is on the "to learn" list.
+
+<p align="center">
+  <a href="https://hardcoded.se">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
+  </a>  
+</p>
+
 ## Get in touch
 
 <p align="center">
