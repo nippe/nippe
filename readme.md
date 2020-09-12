@@ -1,4 +1,4 @@
-# Hi!
+# Hi! 👋
 
 My name is Niklas Nihlén (nippe here on github). I'm a freelance/contractor/consultant developer out of Stockholm, Sweden. Working mainly with distrubuted solutions in a cloud environment, mainly AWS currently.
 
